@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@linear/sdk": "^64.0.0",
-    "mcp-boilerplate-node": "github:dsanroman96/mcp-boilerplate-node#v0.7.0",
+    "mcp-boilerplate-node": "github:dsanroman96/mcp-boilerplate-node#v0.0.6",
     "dotenv": "^17.2.3",
     "zod": "^3.25.76"
   },
